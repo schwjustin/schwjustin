@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/schwjustin/) [Dribbble](https://dribbble.com/schwjustin) [Behance](https://www.behance.net/schwjustin)
+[LinkedIn](https://www.linkedin.com/in/schwjustin/)  [Dribbble](https://dribbble.com/schwjustin)  [Behance](https://www.behance.net/schwjustin)
 
 **Current Focus**<br/>
 Designing & Building [String](https://app.string.link/) `SwiftUI` `UIKit` (Sep 2020 - Present) [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri)<br/>
