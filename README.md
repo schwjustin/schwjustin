@@ -1,8 +1,8 @@
-#### Current Focus<br/>
+**Current Focus**<br/>
 ---
 Designing & Building [String](https://app.string.link/) (Sep 2020 - Present) [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri)<br/>
 
-### Experience<br/>
+**Experience**<br/>
 ---
 [CodePath.org](https://info.codepath.org/fall21techfellows) iOS Tech Fellow (Jun 2021 - Present)<br/>
 [UF ACM](https://www.uf-acm.com/) President (Mar 2020 - Present)<br/>
