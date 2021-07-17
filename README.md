@@ -1,5 +1,5 @@
 **Current Focus**<br/>
-Designing & Building [String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` (Sep 2020 - Present) [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri)<br/>
+Designing & Building [String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` (Sep 2020 - Present) [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri) `Django` `PostgreSQL`<br/>
 
 **Experience**<br/>
 [CodePath.org](https://info.codepath.org/fall21techfellows) iOS Tech Fellow `Storyboard` `UIKit` (Jun 2021 - Present)<br/>
