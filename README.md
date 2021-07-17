@@ -11,7 +11,7 @@ Designing & Building [String](https://app.string.link/) (Sep 2020 - Present)<br/
 Macro - Nutrition Tracking App `SwiftUI` `Firebase` `ML Vision` (Jun 2020 - Oct 2020)<br/>
 Shell Command Interpreter `Lex & Yacc` `C` (Mar 2021)<br/>
 DNA Motif Finding `C++` (Nov 2020)<br/>
-Full Stack Directory Web App `Mern Stack` (Jul 2020)<br/>
+Full Stack Directory Web App `MERN Stack` (Jul 2020)<br/>
 Sorting Algorithms Implementation & Analysis `C++` (Mar 2020)<br/>
 Map Data Structure Re-Implementation `C++` (Feb 2020)<br/>
 TGA Image Processing `C++` (Nov 2019)<br/>
