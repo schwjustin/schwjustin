@@ -10,9 +10,9 @@ Designing & Building [String](https://app.string.link/) (Sep 2020 - Present) [@s
 **Projects**<br/>
 Macro - Nutrition Tracking App `SwiftUI` `Firebase` `ML Vision` (Jun 2020 - Oct 2020)<br/>
 Shell Command Interpreter `Lex & Yacc` `C` (Mar 2021)<br/>
-DNA Motif Finding `C++` (Nov 2020)<br/>
-Full Stack Directory Web App `MERN Stack` (Jul 2020)<br/>
-Sorting Algorithms Implementation & Analysis `C++` (Mar 2020)<br/>
+DNA Motif Finding `C++` `Gibbs sampling` (Nov 2020)<br/>
+Full Stack Directory Web App `MERN Stack` `CRUD` (Jul 2020)<br/>
+Sorting Algorithms Implementation & Analysis `C++` `Quadratic` `Divide-and-Conquer` (Mar 2020)<br/>
 Map Data Structure Re-Implementation `C++` (Feb 2020)<br/>
 TGA Image Processing `C++` (Nov 2019)<br/>
 Templated Doubly Linked List Implementation `C++` (Oct 2019)<br/>
