@@ -1,5 +1,5 @@
 **Current Focus**<br/>
-Designing & Building [String](https://app.string.link/) (Sep 2020 - Present)<br/>
+Designing & Building [String](https://app.string.link/) (Sep 2020 - Present) @sarwaan001 @giannicerri<br/>
 
 **Experience**<br/>
 [CodePath.org](https://info.codepath.org/fall21techfellows) iOS Tech Fellow (Jun 2021 - Present)<br/>
