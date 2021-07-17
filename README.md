@@ -1,13 +1,16 @@
-#### Current Focus<br/>
+**Current Focus**<br/>
+---
 Designing & Building [String](https://app.string.link/) (Sep 2020 - Present) [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri)<br/>
 
 **Experience**<br/>
+---
 [CodePath.org](https://info.codepath.org/fall21techfellows) iOS Tech Fellow (Jun 2021 - Present)<br/>
 [UF ACM](https://www.uf-acm.com/) President (Mar 2020 - Present)<br/>
 [UF Google DSC](https://dsc.community.dev/university-of-florida/) Vice President (Oct 2020 - Apr 2021)<br/>
 [SMH](https://www.smh.com/) UX Design & Clinical Research Intern (Jun 2019 - Aug 2019)<br/>
 
 **Projects**<br/>
+---
 Macro - Nutrition Tracking App `SwiftUI` `Firebase` `ML Vision` (Jun 2020 - Oct 2020)<br/>
 Shell Command Interpreter `Lex & Yacc` `C` (Mar 2021)<br/>
 DNA Motif Finding `C++` (Nov 2020)<br/>
