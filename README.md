@@ -11,7 +11,7 @@ Designing & Building [String](https://app.string.link/) `SwiftUI` `UIKit` `Fireb
 [SMH](https://www.smh.com/) UX Design & Clinical Research Intern (Jun 2019 - Aug 2019)<br/>
 
 **Projects**<br/>
-[String Finance](https://string.news) - Finance News with Sentiment Analysis for Retail Investors `HTML` `SCSS` `JS` (Nov 2020)<br/>
+[String Finance](https://string.news) - Financial News with Sentiment Analysis for Retail Investors `HTML` `SCSS` `JS` (Nov 2020)<br/>
 Macro - Nutrition Tracking App `SwiftUI` `Firebase` `ML Vision` (Jun 2020 - Oct 2020)<br/>
 Shell Command Interpreter `Lex & Yacc` `C` (Mar 2021)<br/>
 DNA Motif Finding - Gibbs Sampling `C++` (Nov 2020)<br/>
