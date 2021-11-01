@@ -1,7 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Dribbble](https://dribbble.com/schwjustin)&nbsp;&nbsp;[Behance](https://www.behance.net/schwjustin)
 
 **Current Focus**<br/>
-Designing & Building [String - https://app.string.link](https://app.string.link/) `SwiftUI` `UIKit` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri)<br/>
+Designing & Building [String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri)<br/>
 
 **Experience**<br/>
 [String AI](https://string.link) Co-Founder & Chief Product Officer `SwiftUI` `UIKit` `Firebase` `HTML` `SCSS` `JS` (Sep 2020 - Present)<br/>
