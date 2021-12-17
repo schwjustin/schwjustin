@@ -1,7 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Dribbble](https://dribbble.com/schwjustin)
 
 **Current Focuses**<br/>
-BlazinBuffaloes `Solidity` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `GCP App Engine`<br/>
+[BlazinBuffaloes](https://blazinbuffaloes.com) `Solidity` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `GCP App Engine`<br/>
 [String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri)<br/>
 
 **Experience**<br/>
