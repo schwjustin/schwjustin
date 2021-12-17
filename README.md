@@ -6,8 +6,8 @@
 
 **Experience**<br/>
 [String AI](https://string.link) Co-Founder & Chief Product Officer (Sep 2020 - Present)<br/>
-[CodePath.org](https://info.codepath.org/fall21techfellows) iOS Tech Fellow (Jun 2021 - Present)<br/>
 [UF ACM](https://www.uf-acm.com/) President (Mar 2020 - Present)<br/>
+[CodePath.org](https://info.codepath.org/fall21techfellows) iOS Tech Fellow (Jun 2021 - Dec 2021)<br/>
 [UF Google DSC](https://dsc.community.dev/university-of-florida/) Vice President (Oct 2020 - Apr 2021)<br/>
 [SMH](https://www.smh.com/) UX Design & Clinical Research Intern (Jun 2019 - Aug 2019)<br/>
 
