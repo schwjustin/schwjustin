@@ -1,7 +1,8 @@
 [LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Dribbble](https://dribbble.com/schwjustin)
 
-**Current Focus**<br/>
-Designing & Building [String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri)<br/>
+**Current Focuses**<br/>
+BlazinBuffaloes `Solidity` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `GCP App Engine`<br/>
+[String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri)<br/>
 
 **Experience**<br/>
 [String AI](https://string.link) Co-Founder & Chief Product Officer (Sep 2020 - Present)<br/>
@@ -11,6 +12,7 @@ Designing & Building [String](https://app.string.link/) `SwiftUI` `UIKit` `Fireb
 [SMH](https://www.smh.com/) UX Design & Clinical Research Intern (Jun 2019 - Aug 2019)<br/>
 
 **Projects**<br/>
+Interactive Visualization of DNA Motif Finding Algorithms `SwiftUI` (Dec 2021)<br/>
 [String Finance](https://string.news) - Financial News with Sentiment Analysis for Retail Investors `HTML` `SCSS` `JS` (Nov 2020)<br/>
 Macro - Nutrition Tracking App `SwiftUI` `Firebase` `ML Vision` (Jun 2020 - Oct 2020)<br/>
 Shell Command Interpreter `Lex & Yacc` `C` (Mar 2021)<br/>
