@@ -12,7 +12,7 @@
 
 **Projects**<br/>
 [BlazinBuffaloes](https://blazinbuffaloes.com) `Solidity` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `GCP App Engine` (Dec 2021)<br/>
-[String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri)(9/2020 - 12/2021)<br/>
+[String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri) (9/2020 - 12/2021)<br/>
 Interactive Visualization of DNA Motif Finding Algorithms `SwiftUI` (Dec 2021)<br/>
 [String Finance](https://string.news) - Financial News with Sentiment Analysis for Retail Investors `HTML` `SCSS` `JS` (Nov 2020)<br/>
 Macro - Nutrition Tracking App `SwiftUI` `Firebase` `ML Vision` (Jun 2020 - Oct 2020)<br/>
