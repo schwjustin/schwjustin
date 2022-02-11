@@ -2,7 +2,7 @@
 
 **Current Focuses**<br/>
 [Paracord](https://paracord-zeta.vercel.app/primary) - NFT & Crypto Project Discovery Platform `Ionic` `NextJS` `React` `Tailwind CSS` `Vercel`<br/>
-[BlazinBuffaloes](https://blazinbuffaloes.com) - NFT Collection `Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `GCP App Engine` (Dec 2021)<br/>
+[BlazinBuffaloes](https://blazinbuffaloes.com) - NFT Collection `Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `Python` `GCP App Engine` (Dec 2021)<br/>
 
 **Experience**<br/>
 [String AI](https://string.link) Co-Founder & Chief Product Officer (Sep 2020 - Jan 2022)<br/>
