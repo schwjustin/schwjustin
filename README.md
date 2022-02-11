@@ -1,7 +1,8 @@
 [LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Dribbble](https://dribbble.com/schwjustin)
 
-**Current Focus**<br/>
+**Current Focuses**<br/>
 [Paracord](https://paracord-zeta.vercel.app/primary) `Ionic` `NextJS` `React` `Tailwind CSS` `Vercel`<br/>
+[BlazinBuffaloes](https://blazinbuffaloes.com) `Solidity` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `GCP App Engine` (Dec 2021)<br/>
 
 **Experience**<br/>
 [String AI](https://string.link) Co-Founder & Chief Product Officer (Sep 2020 - Jan 2022)<br/>
@@ -11,7 +12,6 @@
 [SMH](https://www.smh.com/) UX Design & Clinical Research Intern (Jun 2019 - Aug 2019)<br/>
 
 **Projects**<br/>
-[BlazinBuffaloes](https://blazinbuffaloes.com) `Solidity` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `GCP App Engine` (Dec 2021)<br/>
 [String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri) (9/2020 - 12/2021)<br/>
 Interactive Visualization of DNA Motif Finding Algorithms `SwiftUI` (Dec 2021)<br/>
 [String Finance](https://string.news) - Financial News with Sentiment Analysis for Retail Investors `HTML` `SCSS` `JS` (Nov 2020)<br/>
