@@ -1,7 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Dribbble](https://dribbble.com/schwjustin)
 
 **Current Focuses**<br/>
-[Paracord](https://paracord-zeta.vercel.app/primary) - NFT & Crypto Project Discovery Platform `Ionic` `NextJS` `React` `Tailwind CSS` `Vercel` (Jan 2022 - Present)<br/>
+[Bauhaus](https://frombauhaus.vercel.app/home) - NFT & Crypto Project Discovery Platform `Ionic` `Capacitor` `NextJS` `React` `Tailwind CSS` `Vercel` (Jan 2022 - Present)<br/>
 [BlazinBuffaloes](https://blazinbuffaloes.com) - NFT Collection `Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `Python` `GCP App Engine` (Dec 2021)<br/>
 
 **Experience**<br/>
