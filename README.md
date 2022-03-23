@@ -1,7 +1,8 @@
 [LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Dribbble](https://dribbble.com/schwjustin)
 
 **Current Focuses**<br/>
-[Bauhaus](https://frombauhaus.vercel.app/home) - NFT & Crypto Project Discovery Platform `Ionic` `Capacitor` `NextJS` `React` `Tailwind CSS` `Vercel` (Jan 2022 - Present)<br/>
+Bridge - Crypto Payments (Mar 2022 - Present)
+[Bauhaus](https://frombauhaus.vercel.app/home) - NFT & Crypto Project Discovery Platform `Ionic` `Capacitor` `NextJS` `React` `Tailwind CSS` `Vercel` (Jan 2022 - Feb 2022)<br/>
 [BlazinBuffaloes](https://blazinbuffaloes.com) - NFT Collection `Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `Python` `GCP App Engine` (Dec 2021)<br/>
 
 **Experience**<br/>
