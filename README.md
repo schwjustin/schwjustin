@@ -1,7 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Dribbble](https://dribbble.com/schwjustin)
 
 **Current Focuses**<br/>
-Bridge - Crypto Payments (Mar 2022 - Present)
+Bridge - Crypto Payments (Mar 2022 - Present)<br/>
 [Bauhaus](https://frombauhaus.vercel.app/home) - NFT & Crypto Project Discovery Platform `Ionic` `Capacitor` `NextJS` `React` `Tailwind CSS` `Vercel` (Jan 2022 - Feb 2022)<br/>
 [BlazinBuffaloes](https://blazinbuffaloes.com) - NFT Collection `Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `Python` `GCP App Engine` (Dec 2021)<br/>
 
@@ -13,7 +13,7 @@ Bridge - Crypto Payments (Mar 2022 - Present)
 [SMH](https://www.smh.com/) UX Design & Clinical Research Intern (Jun 2019 - Aug 2019)<br/>
 
 **Projects**<br/>
-Lexer and Parser with Type Checking `Java` (Feb 2022 - Present)
+Lexer and Parser with Type Checking `Java` (Feb 2022 - Present)<br/>
 [String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri) (Sep 2020 - Jan 2022)<br/>
 Interactive Visualization of DNA Motif Finding Algorithms `SwiftUI` (Dec 2021)<br/>
 [String Finance](https://string.news) - Financial News with Sentiment Analysis for Retail Investors `HTML` `SCSS` `JS` (Nov 2020)<br/>
