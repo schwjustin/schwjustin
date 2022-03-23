@@ -13,6 +13,7 @@ Bridge - Crypto Payments (Mar 2022 - Present)
 [SMH](https://www.smh.com/) UX Design & Clinical Research Intern (Jun 2019 - Aug 2019)<br/>
 
 **Projects**<br/>
+Lexer and Parser with Type Checking `Java` (Feb 2022 - Present)
 [String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri) (Sep 2020 - Jan 2022)<br/>
 Interactive Visualization of DNA Motif Finding Algorithms `SwiftUI` (Dec 2021)<br/>
 [String Finance](https://string.news) - Financial News with Sentiment Analysis for Retail Investors `HTML` `SCSS` `JS` (Nov 2020)<br/>
