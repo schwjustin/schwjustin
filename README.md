@@ -8,7 +8,7 @@ Bridge - Crypto Payments (Mar 2022 - Present)<br/>
 [String AI](https://string.link) Co-Founder & Chief Product Officer (Sep 2020 - Jan 2022)<br/>
 [CodePath.org](https://info.codepath.org/fall21techfellows) iOS Tech Fellow (Jun 2021 - Dec 2021)<br/>
 [UF Google DSC](https://dsc.community.dev/university-of-florida/) Vice President (Oct 2020 - Apr 2021)<br/>
-[UF Innovation Fellows](https://www.eng.ufl.edu/innovation/students/innovation-fellows/) Innovation Fellow<br/> (Oct 2019 - Mar 2020)
+[UF Innovation Fellows](https://www.eng.ufl.edu/innovation/students/innovation-fellows/) Innovation Fellow (Oct 2019 - Mar 2020)<br/>
 [Qu Parking](https://www.behance.net/gallery/87471261/WIP-Qu-Brand-and-Interface-Design) Product Designer (Apr 2019 - Jan 2020)<br/>
 [SMH](https://www.smh.com/) UX Design & Clinical Research Intern (Jun 2019 - Aug 2019)<br/>
 
