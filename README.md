@@ -1,7 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Dribbble](https://dribbble.com/schwjustin)
 
 **Current Focus**<br/>
-Bridge - Crypto Payments (Mar 2022 - Present)<br/>
+[Bridge](https://bridgelabs.xyz/) - Crypto Payments (Mar 2022 - Present)<br/>
 
 **Experience**<br/>
 [UF ACM](https://www.uf-acm.com/) President (Mar 2020 - Present)<br/>
