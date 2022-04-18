@@ -11,7 +11,7 @@ Bridge - Crypto Payments (Mar 2022 - Present)<br/>
 [SMH](https://www.smh.com/) UX Design & Clinical Research Intern (Jun 2019 - Aug 2019)<br/>
 
 **Projects**<br/>
-Lexer and Parser with Type Checking `Java` (Feb 2022 - Present)<br/>
+Lexer and Parser with Type Checking and Code Generation `Java` (Feb 2022 - Present)<br/>
 [Bauhaus](https://frombauhaus.vercel.app/home) - NFT Project Discovery `Ionic` `Capacitor` `NextJS` `React` `Tailwind CSS` `Vercel` (Jan 2022 - Feb 2022)<br/>
 [BlazinBuffaloes](https://blazinbuffaloes.com) - NFT Collection `Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `Python` `GCP App Engine` (Dec 2021 - Jan 2022)<br/>
 [String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri) (Sep 2020 - Jan 2022)<br/>
