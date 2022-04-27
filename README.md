@@ -4,7 +4,7 @@
 [Bridge](https://bridgelabs.xyz/) - Crypto Payments (Mar 2022 - Present)<br/>
 
 **Experience**<br/>
-[UF ACM](https://www.uf-acm.com/) President (Mar 2020 - Present)<br/>
+[UF ACM](https://www.uf-acm.com/) President (Mar 2020 - April 2022)<br/>
 [String AI](https://string.link) Co-Founder & Chief Product Officer (Sep 2020 - Jan 2022)<br/>
 [CodePath.org](https://info.codepath.org/fall21techfellows) iOS Tech Fellow (Jun 2021 - Dec 2021)<br/>
 [UF Google DSC](https://dsc.community.dev/university-of-florida/) Vice President (Oct 2020 - Apr 2021)<br/>
@@ -13,7 +13,7 @@
 [SMH](https://www.smh.com/) UX Design & Clinical Research Intern (Jun 2019 - Aug 2019)<br/>
 
 **Projects**<br/>
-Lexer and Parser with Type Checking and Code Generation `Java` (Feb 2022 - Present)<br/>
+Lexer and Parser with Semantic Analysis, Interpretation, and Code Generation `Java` (Feb 2022 - April 2022)<br/>
 [BlazinBuffaloes](https://blazinbuffaloes.com) - NFT Collection `Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `Python` `GCP App Engine` (Dec 2021 - Jan 2022)<br/>
 [String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri) (Sep 2020 - Jan 2022)<br/>
 Interactive Visualization of DNA Motif Finding Algorithms `SwiftUI` (Dec 2021)<br/>
