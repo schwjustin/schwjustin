@@ -1,7 +1,7 @@
-[LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Dribbble](https://dribbble.com/schwjustin)
+[LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Resume](https://dribbble.com/schwjustin)
 
 **Current Focus**<br/>
-[Bridge](https://bridgelabs.xyz/) - Crypto Payments (Mar 2022 - Present)<br/>
+[Bridge](https://twitter.com/bridgelabsxyz) - Crypto Payments (Mar 2022 - Present)<br/>
 
 **Experience**<br/>
 [UF ACM](https://www.uf-acm.com/) President (Mar 2020 - April 2022)<br/>
@@ -15,7 +15,7 @@
 **Projects**<br/>
 Lexer and Parser with Semantic Analysis, Interpretation, and Code Generation `Java` (Feb 2022 - April 2022)<br/>
 [BlazinBuffaloes](https://blazinbuffaloes.com) - NFT Collection `Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `Python` `GCP App Engine` (Dec 2021 - Jan 2022)<br/>
-[String](https://app.string.link/) `SwiftUI` `UIKit` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri) (Sep 2020 - Jan 2022)<br/>
+[String](https://apple.co/3VkJcUH) `SwiftUI` `UIKit` `Django` `PostgrSQL` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri) (Sep 2020 - Jan 2022)<br/>
 Interactive Visualization of DNA Motif Finding Algorithms `SwiftUI` (Dec 2021)<br/>
 [String Finance](https://string.news) - Financial News with Sentiment Analysis for Retail Investors `HTML` `SCSS` `JS` (Nov 2020)<br/>
 Macro - Nutrition Tracking App `SwiftUI` `Firebase` `ML Vision` (Jun 2020 - Oct 2020)<br/>
