@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Resume](https://dribbble.com/schwjustin)
+[LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Resume](https://bit.ly/schwjustin)
 
 **Current Focus**<br/>
 [Bridge](https://twitter.com/bridgelabsxyz) - Crypto Payments (Mar 2022 - Present)<br/>
