@@ -16,7 +16,7 @@
 [Terrestrial](https://terrestrial.vercel.app/) - AI visualization of deforestation effects `React` `Tailwind` `DALL-E` (Oct 2022)<br/>
 Lexer and Parser with Type Checking and Code Generation `Java` (Feb 2022 - April 2022)<br/>
 [Bauhaus](https://frombauhaus.vercel.app/home) - Multi-chain pre-mint NFT directory `Next` `React` `Tailwind` `Ionic` (Mar 2022)<br/>
-NFT Collection `Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `SCSS` `Python` `GCP App Engine` (Dec 2021 - Jan 2022)<br/>
+NFT Collection `Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `Python` `GCP App Engine` (Dec 2021 - Jan 2022)<br/>
 [String](https://apple.co/3VkJcUH) - Twitter, but just for news `SwiftUI` `UIKit` `Django` `PostgrSQL` `Firebase` [@sarwaan001](https://github.com/sarwaan001) [@giannicerri](https://github.com/giannicerri) (Sep 2020 - Jan 2022)<br/>
 Interactive Visualization of DNA Motif Finding Algorithms `SwiftUI` (Dec 2021)<br/>
 [String Finance](https://string.news) - Financial news with sentiment analysis `HTML` `SCSS` `JS` (Nov 2020)<br/>
