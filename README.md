@@ -2,7 +2,7 @@
 
 **Current Focuses**<br/>
 [String Finance (Reboot)](https://stringfinance.app) - Financial news with sentiment analysis `React` `Next` `Ionic` `Tailwind` (Nov 2022 - Present)<br/>
-[Bridge (Paused)](https://twitter.com/bridgelabsxyz) - Pay with crypto, anywhere (Mar 2022 - Present)<br/>
+[Bridge (Paused)](https://twitter.com/bridgelabsxyz) - Pay with crypto, anywhere `React` `Tailwind` `Webpack` `web3.js` `Node.js` `Express` `Axios` (Mar 2022 - Present)<br/>
 
 **Experience**<br/>
 [UF ACM](https://www.uf-acm.com/) President (Mar 2020 - April 2022)<br/>
