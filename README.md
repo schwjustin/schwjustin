@@ -1,6 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Resume](https://bit.ly/schwjustin)
 
-**Current Focus**<br/>
+**Current Focuses**<br/>
 [String Finance (Reboot)](https://stringfinance.app) - Financial news with sentiment analysis `React` `Next` `Ionic` `Tailwind` (Nov 2022 - Present)<br/>
 [Bridge (Paused)](https://twitter.com/bridgelabsxyz) - Pay with crypto, anywhere (Mar 2022 - Present)<br/>
 
