@@ -1,7 +1,4 @@
 **Projects**<br/>
-Chat Service - `Node.js` `AWS SNS, SQS, DynamoDB, Lambda`
-Chat App - `SwiftUI` `UIKit` `CoreData` `Node.js` `AWS DynamoDB, Lambda` `GPT` (Mar 2022)<br/>
-Chat Service Prototype - `Node.js` `Digital Ocean Functions` `MongoDB` `GPT` (Mar 2022)<br/>
 [String Finance (Reboot)](https://stringfinance.app) - Financial news with sentiment analysis `React` `Next.js` `Ionic` `Tailwind` (Nov 2022 - Present)<br/>
 [Bridge](https://twitter.com/bridgelabsxyz) - Pay with crypto, anywhere `React` `Tailwind` `Webpack` `web3.js` `Node.js` `Express` `Axios` (Mar 2022 - Nov 2022)<br/>
 [Terrestrial](https://terrestrial.vercel.app/) - AI visualization of deforestation effects `React` `Tailwind` `DALL-E` (Oct 2022)<br/>
