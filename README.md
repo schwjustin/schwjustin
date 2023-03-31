@@ -1,19 +1,6 @@
-[LinkedIn](https://www.linkedin.com/in/schwjustin/)&nbsp;&nbsp;[Resume](https://bit.ly/schwjustin)
-
-**Current Focuses**<br/>
-[String Finance (Reboot)](https://stringfinance.app) - Financial news with sentiment analysis `React` `Next` `Ionic` `Tailwind` (Nov 2022 - Present)<br/>
-[Bridge](https://twitter.com/bridgelabsxyz) - Pay with crypto, anywhere `React` `Tailwind` `Webpack` `web3.js` `Node.js` `Express` `Axios` (Mar 2022 - Present)<br/>
-
-**Experience**<br/>
-[UF ACM](https://www.uf-acm.com/) President (Mar 2020 - April 2022)<br/>
-[String AI](https://apple.co/3VkJcUH) Co-Founder & Chief Product Officer (Sep 2020 - Jan 2022)<br/>
-[CodePath.org](https://www.codepath.org/tech-fellow-program) iOS Tech Fellow (Jun 2021 - Dec 2021)<br/>
-[UF Google DSC](https://gdsc.community.dev/university-of-florida/) Vice President (Oct 2020 - Apr 2021)<br/>
-[UF Innovation Fellows](https://www.eng.ufl.edu/innovation/students/innovation-fellows/) Innovation Fellow (Oct 2019 - Mar 2020)<br/>
-[Qu Parking](https://www.behance.net/gallery/87471261/WIP-Qu-Brand-and-Interface-Design) Product Designer (Apr 2019 - Jan 2020)<br/>
-[SMH](https://www.smh.com/) UX Design & Clinical Research Intern (Jun 2019 - Aug 2019)<br/>
-
 **Projects**<br/>
+[String Finance (Reboot)](https://stringfinance.app) - Financial news with sentiment analysis `React` `Next` `Ionic` `Tailwind` (Nov 2022 - Present)<br/>
+[Bridge](https://twitter.com/bridgelabsxyz) - Pay with crypto, anywhere `React` `Tailwind` `Webpack` `web3.js` `Node.js` `Express` `Axios` (Mar 2022 - Nov 2022)<br/>
 [Terrestrial](https://terrestrial.vercel.app/) - AI visualization of deforestation effects `React` `Tailwind` `DALL-E` (Oct 2022)<br/>
 Lexer and Parser with Type Checking and Code Generation `Java` (Feb 2022 - April 2022)<br/>
 [Bauhaus](https://frombauhaus.vercel.app/home) - Multi-chain pre-mint NFT directory `Next` `React` `Tailwind` `Ionic` (Mar 2022)<br/>
