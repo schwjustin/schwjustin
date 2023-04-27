@@ -1,5 +1,5 @@
 **Projects**<br/>
-[String Finance (Reboot)](https://stringfinance.app) - Financial news with sentiment analysis `React` `Next.js` `Ionic` `Tailwind` (Nov 2022 - Present)<br/>
+[String Finance (Reboot)](https://stringfinance.app) - Financial news with sentiment analysis `React` `Next.js` `Ionic` `Tailwind` (Nov 2022 - Jan 2023)<br/>
 [Bridge](https://twitter.com/bridgelabsxyz) - Pay with crypto, anywhere `React` `Tailwind` `Webpack` `web3.js` `Node.js` `Express` `Axios` (Mar 2022 - Nov 2022)<br/>
 [Terrestrial](https://terrestrial.vercel.app/) - AI visualization of deforestation effects `React` `Tailwind` `DALL-E` (Oct 2022)<br/>
 Lexer and Parser with Type Checking and Code Generation `Java` (Feb 2022 - April 2022)<br/>
