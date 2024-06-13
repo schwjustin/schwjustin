@@ -36,7 +36,7 @@ Financial news with sentiment analysis • *Nov 2020*<br/>
 `HTML` `SCSS` `JS`<br/>
 
 **Macro**<br/>
-Nutrition tracking with computer vision • Jun 2020 - Oct 2020<br/>
+Nutrition tracking with computer vision • *Jun 2020 - Oct 2020*<br/>
 `SwiftUI` `Firebase Auth, Realtime DB, ML Vision`<br/>
 
 **Shell Command Interpreter**<br/>
