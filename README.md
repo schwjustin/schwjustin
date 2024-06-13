@@ -1,35 +1,72 @@
-**Projects**<br/>
-[String Finance (Reboot)](https://stringfinance.app) - Financial news with sentiment analysis `React` `Next.js` `Ionic` `Tailwind` (Nov 2022 - Jan 2023)<br/>
-[Bridge](https://twitter.com/bridgelabsxyz) - Pay with crypto, anywhere `React` `Tailwind` `Webpack` `web3.js` `Node.js` `Express` `Axios` (Mar 2022 - Nov 2022)<br/>
-Terrestrial - AI visualization of deforestation effects `React` `Tailwind` `DALL-E` (Oct 2022)<br/>
-Lexer and Parser with Type Checking and Code Generation `Java` (Feb 2022 - April 2022)<br/>
-Bauhaus - Multi-chain pre-mint NFT directory `React` `Next.js` `Ionic` `Tailwind` (Mar 2022)<br/>
-NFT Collection - `Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `Python` `GCP App Engine` (Dec 2021 - Jan 2022)<br/>
-String News - Twitter, but just for news `SwiftUI` `UIKit` `Firebase` (Sep 2020 - Jan 2022)<br/>
-Interactive Visualization of DNA Motif Finding Algorithms `SwiftUI` (Dec 2021)<br/>
-String Finance - Financial news with sentiment analysis `HTML` `SCSS` `JS` (Nov 2020)<br/>
-Macro - Nutrition tracking with computer vision `SwiftUI` `Firebase Auth, Realtime DB, ML Vision` (Jun 2020 - Oct 2020)<br/>
-Shell Command Interpreter `Lex & Yacc` `C` (Mar 2021)<br/>
-DNA Motif Finding - Gibbs Sampling `C++` (Nov 2020)<br/>
-Full Stack Directory Web App - CRUD operations `MongoDB` `Express` `React` `Node.js` (Jul 2020)<br/>
-Sorting Algorithms Implementation & Analysis `C++` (Mar 2020)<br/>
-Map Data Structure Re-Implementation `C++` (Feb 2020)<br/>
-TGA Image Processing `C++` (Nov 2019)<br/>
-Templated Doubly Linked List Implementation `C++` (Oct 2019)<br/>
-<!--
-### Hi there 👋
+## Projects
+**String Finance v2**<br/>
+Financial news with sentiment analysis • *Nov 2022 - Jan 2023*<br/>
+`React` `Next.js` `Ionic` `Tailwind`<br/>
+
+**Bridge**<br/>
+Pay with crypto, anywhere • *Mar 2022 - Nov 2022*<br/>
+`React` `Tailwind` `Webpack` `web3.js` `Node.js` `Express` `Axios`<br/>
+
+**Terrestrial**<br/>
+AI visualization of deforestation effects • *Oct 2022*<br/>
+`React` `Tailwind` `DALL-E`<br/>
+
+**Programming Language Implementation**<br/>
+Lexer and parser with type checking and code generation • *Feb 2022 - April 2022*<br/>
+`Java`<br/>
+
+**Bauhaus**<br/>
+Multi-chain pre-mint NFT directory • *Mar 2022*<br/>
+`React` `Next.js` `Ionic` `Tailwind`<br/>
+
+**NFT Collection**<br/>
+1,000 randomly generated, unique profile pictures • *Dec 2021 - Jan 2022*<br/>
+`Solidity` `Polygon Network` `Truffle` `Alchemy` `React` `Ethers` `Python` `GCP App Engine`<br/>
+
+**String News**<br/>
+Twitter, but just for news • *Sep 2020 - Jan 2022*<br/>
+`SwiftUI` `UIKit` `Firebase`<br/>
+
+**DNA Motif Finding Visualization**<br/>
+Interactive visualization of DNA motif finding algorithms • *Dec 2021*<br/>
+`SwiftUI`<br/>
+
+**String Finance**<br/>
+Financial news with sentiment analysis • *Nov 2020*<br/>
+`HTML` `SCSS` `JS`<br/>
+
+**Macro**<br/>
+Nutrition tracking with computer vision • Jun 2020 - Oct 2020<br/>
+`SwiftUI` `Firebase Auth, Realtime DB, ML Vision`<br/>
+
+**Shell Command Interpreter**<br/>
+*Mar 2021*<br/>
+`Lex & Yacc` `C`<br/>
+
+**DNA Motif Finding**<br/>
+Gibbs sampling algorithm • *Nov 2020*<br/>
+`C++`<br/>
+
+**Full Stack Directory**<br/>
+CRUD operations • *Jul 2020*<br/>
+`MongoDB` `Express` `React` `Node.js`<br/>
+
+**Sorting Algorithms**<br/>
+Implementation and analysis • *Mar 2020*<br/>
+`C++`<br/>
+
+**Map Data Structure Re-Implementation**<br/>
+*Feb 2020*<br/>
+`C++`<br/>
+
+**TGA Image Processing**<br/>
+*Nov 2019*<br/>
+`C++`<br/>
+
+**Templated Doubly Linked List Implementation**<br/>
+*Oct 2019*<br/>
+`C++`<br/>
 
 
-**schwjustin/schwjustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
