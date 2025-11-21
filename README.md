@@ -24,7 +24,7 @@ Interactive visualization of DNA motif finding algorithms • *Dec 2021*<br/>
 `SwiftUI`<br/>
 
 **String Finance**<br/>
-Financial news with sentiment analysis • *Nov 2020*<br/>
+Financial news with sentiment analysis • *Jul 2020*<br/>
 `HTML` `SCSS` `JS`<br/>
 
 **Macro**<br/>
